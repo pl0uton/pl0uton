@@ -27,9 +27,9 @@ Languages  :  Python, JS, C++
 <hr>
 
 <p align="left">
-  <a href="https://plasmonix.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Plasmonix&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Plasmonix&theme=gruvbox&hide_border=true" />
+  <a href="https://pl0uton.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pl0uton&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pl0uton&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
